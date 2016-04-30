@@ -5,6 +5,6 @@ This app is designed with the most used libraries in Android development now, th
 
 * Staggered Grid view like pinterest. 
 * Retrofit library for networking calls and parsing.
-* Universal Image loading library for cahcing & loading images fastly
+* Universal Image loading library for caching & loading images fastly
 * Animation library for applying view animations.
 * Material design concetps used for example, -recycler view, card view, swipe refresh layout, floating action button menu, collapsing toolbar layout.
